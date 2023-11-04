@@ -17,4 +17,5 @@ Sou uma pessoa apaixonada por tecnologia e busco cada dia mais adquirir conhecim
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vortroxx&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vortroxx&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## Minhas Contrbuições e Porjetos Pessoais
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vortroxx&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Vortroxx/dio-lab-open-source)
